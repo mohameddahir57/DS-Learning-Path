@@ -1,9 +1,7 @@
-# ds-learning-path
+# DS Learning Path
 
 ## About This Course
 This repository documents the Data Science learning journey of **me** and **Halimo Nur Ibrahim**, two graduates with a background in Computer Applications, Software Engineering, and Full-Stack Development. Having already built a solid foundation in Excel, Power BI, Tableau, SQL, and Python through prior academic and professional work, we set out to extend that foundation into data science — with the goal of building machine learning and AI models and integrating them into real, deployable products such as websites, mobile applications, and chatbots. The course follows a structured Lesson Day → Off Day rhythm, progressing from core fundamentals through to a fully deployed capstone project.
-
----
 
 ## Full Toolkit (Beginner → Advanced)
 
@@ -47,8 +45,6 @@ This repository documents the Data Science learning journey of **me** and **Hali
 - Notion / Google Docs (for your own personal notes)
 - Claude/ChatGPT (for debugging help — used to learn, not just copy)
 
----
-
 ## Daily Rhythm ("Food Guide" for the Brain)
 - **Before lesson:** Light meal/snack — fruit, nuts, or eggs. Avoid heavy carbs (causes sluggishness).
 - **During lesson:** Water nearby, no phone notifications.
@@ -56,7 +52,6 @@ This repository documents the Data Science learning journey of **me** and **Hali
 - **After lesson:** Reflect for 5 minutes — mentally note 1–2 key takeaways.
 - **Off days:** Light review only (10–15 min max) — skim yesterday's notes or re-run code once. Keeps momentum without burnout.
 
----
 
 ## PHASE 1 — Python for Data Science + Statistics (Weeks 1–4)
 
@@ -73,7 +68,6 @@ This repository documents the Data Science learning journey of **me** and **Hali
 **Lesson Day 4:** NumPy applied — random number generation (`np.random`), combining/stacking arrays (`concatenate`, `vstack`, `hstack`), linear algebra basics (dot product, matrix multiplication), review of Days 1–3
 - Exercise (Mini Challenge): Simulate 100 random "test scores" using `np.random`, calculate mean and std, filter students who "passed" (score > 60) — vectorized only, no loops
 
----
 
 ### Week 2 — Pandas Mastery
 **Lesson Day 1:** Pandas basics — Series vs DataFrame, reading CSV/Excel, `.head()`, `.info()`, `.describe()`
@@ -88,7 +82,6 @@ This repository documents the Data Science learning journey of **me** and **Hali
 **Lesson Day 4:** GroupBy & merging — `.groupby()`, aggregations, `merge()`, `concat()`, pivot tables
 - Exercise (Mini Challenge): Group a sales dataset by category and calculate total/average sales, then merge with a second dataset (e.g., product info)
 
----
 
 ### Week 3 — Visualization + Descriptive Statistics
 **Lesson Day 1:** Matplotlib basics — line, bar, histogram, scatter plots
@@ -118,7 +111,6 @@ This repository documents the Data Science learning journey of **me** and **Hali
 **Lesson Day 4:** A/B testing fundamentals + Phase 1 wrap-up
 - Exercise (🔹 **Mini Project 1**): Design a mock A/B test AND complete a full EDA report on a dataset of your choice — combining everything from Weeks 1–4
 
----
 
 ## PHASE 2 — Machine Learning Core (Weeks 5–9)
 
