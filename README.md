@@ -290,7 +290,8 @@ This repository documents the Data Science learning journey of **Me** and **Hali
 **Lesson Day 3:** GitHub repository + README polish
 - Exercise: Push the full project to GitHub with a professional README
 
-
+**Lesson Day 4:** Final review + next-step planning
+- Exercise: Reflect on the full journey, identify which specialization (ML Engineering, NLP, Computer Vision, Time Series, Analytics Engineering) to go deeper into next
 
 
 ## Summary
