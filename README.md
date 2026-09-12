@@ -294,3 +294,10 @@ This repository documents the Data Science learning journey of **Me** and **Hali
 - Exercise: Reflect on the full journey, identify which specialization (ML Engineering, NLP, Computer Vision, Time Series, Analytics Engineering) to go deeper into next
 
 
+
+## Summary
+- **Total Duration:** ~17 weeks (~4 months at Lesson-Off-Lesson pace)
+- **Total Lesson Days:** ~64 lesson days
+- **Mini Projects:** 2 (Week 4, Week 9)
+- **Capstone Project:** Weeks 16–17
+- **End Result:** A fully deployed AI-powered application (model + API + frontend) plus a GitHub portfolio ready for job applications or freelance work
