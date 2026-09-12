@@ -220,7 +220,7 @@ This repository documents the Data Science learning journey of **Me** and **Hali
 - Exercise (Mini Challenge): Build a simple neural network from scratch and train it end-to-end
 
 
-
+## PHASE 4  Building Real AI Products (Weeks 13–15)
 
 ### Week 13 Chatbots & Hugging Face
 **Lesson Day 1:** Hugging Face Transformers intro pre-trained models overview
