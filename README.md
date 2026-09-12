@@ -1,3 +1,4 @@
+# DS Learning Path
 
 ## About This Course
 This repository documents the Data Science learning journey of **Me** and **Halimo Nur Ibrahim**, two graduates with a background in Computer Applications, Software Engineering, and Full-Stack Development. Having already built a solid foundation in Excel, Power BI, Tableau, SQL, and Python through prior academic and professional work, we set out to extend that foundation into data science with the goal of building machine learning and AI models and integrating them into real, deployable products such as websites, mobile applications, and chatbots. The course follows a structured Lesson Day → Off Day rhythm, progressing from core fundamentals through to a fully deployed capstone project.
