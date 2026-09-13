@@ -21,7 +21,7 @@ Covered random number generation (`np.random`) and why setting a seed matters fo
 - `Day1 Python Refresh.pdf` / `Day1 Python Refresh.ipynb`
 - `Day2 Numpy Basics.pdf` / `Day2 Numpy Basics.ipynb`
 - `Day3 Numpy Operations.pdf` / `Day3 Numpy Operations.ipynb`
-- `Day4 Numpy Applied.pdf` / `day-4-numpy-applied.ipynb`
+- `Day4 Numpy Applied.pdf` / `Day4 Numpy Applied.ipynb`
 
 ## Week 1 Checklist
 
