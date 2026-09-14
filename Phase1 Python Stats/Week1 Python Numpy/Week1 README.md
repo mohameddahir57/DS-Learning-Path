@@ -30,13 +30,4 @@ Covered random number generation (`np.random`) and why setting a seed matters fo
 - [x] Day 3 - NumPy Operations (vectorization, broadcasting, aggregates, boolean masking)
 - [x] Day 4 - NumPy Applied + Mini Challenge (random generation, stacking, dot product)
 
-## Skills Gained This Week
-- Comfortable distinguishing basic types from collection types in Python
-- Able to write list comprehensions and lambda functions instead of manual loops
-- Able to create, index, slice, and reshape NumPy arrays
-- Able to perform vectorized math operations without writing loops
-- Able to filter data using boolean masks
-- Able to generate reproducible random data and combine arrays together
-- Understand the basic math (dot product / matrix multiplication) behind later ML models
 
-**Next up: Week 2 - Pandas Mastery**
