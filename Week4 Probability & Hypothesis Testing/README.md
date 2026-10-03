@@ -29,10 +29,10 @@ Like Week 3, every practice question in this week's notebooks is **fully solved*
 
 ## Week 4 Checklist
 
-- [ ] Day 1 - Probability Basics (simple probability, AND/OR rules, normal distribution)
-- [ ] Day 2 - Hypothesis Testing (null/alternative hypothesis, p-value, t-test)
-- [ ] Day 3 - Confidence Intervals & Significance (confidence intervals, Type I/II errors)
-- [ ] Day 4 - A/B Testing + Mini Project 1 (A/B testing, full Phase 1 mini project)
+- [x] Day 1 - Probability Basics (simple probability, AND/OR rules, normal distribution)
+- [x] Day 2 - Hypothesis Testing (null/alternative hypothesis, p-value, t-test)
+- [x] Day 3 - Confidence Intervals & Significance (confidence intervals, Type I/II errors)
+- [x] Day 4 - A/B Testing + Mini Project 1 (A/B testing, full Phase 1 mini project)
 
 ## Skills Gained This Week
 - Understand what probability means and how to calculate simple probabilities
