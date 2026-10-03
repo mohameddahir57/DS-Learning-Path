@@ -43,7 +43,7 @@ Like Week 3, every practice question in this week's notebooks is **fully solved*
 - Able to run a simple A/B test, the same method real companies use for decisions
 - Completed Mini Project 1: a full small data analysis project from start to finish
 
-## 🎉 Phase 1 Complete!
+## Phase 1 Complete!
 Weeks 1-4 covered Python, NumPy, Pandas, visualization, statistics, and hypothesis testing - the full foundation for data science. 
 
 **Next up: Phase 2 - Machine Learning Core, starting with Week 5 - ML Foundations**
