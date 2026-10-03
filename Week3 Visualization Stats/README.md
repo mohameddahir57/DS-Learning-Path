@@ -29,10 +29,10 @@ Unlike Weeks 1 and 2, every exercise in this week's notebooks is **fully solved*
 
 ## Week 3 Checklist
 
-- [ ] Day 1 - Matplotlib Basics (line, bar, histogram, scatter)
-- [ ] Day 2 - Seaborn & Plotly (heatmaps, pairplots, interactive charts)
-- [ ] Day 3 - Descriptive Statistics (mean, median, mode, variance, std, distributions)
-- [ ] Day 4 - Full EDA (combining Week 2 + Week 3 into one analysis workflow)
+- [X] Day 1 - Matplotlib Basics (line, bar, histogram, scatter)
+- [X] Day 2 - Seaborn & Plotly (heatmaps, pairplots, interactive charts)
+- [X] Day 3 - Descriptive Statistics (mean, median, mode, variance, std, distributions)
+- [X] Day 4 - Full EDA (combining Week 2 + Week 3 into one analysis workflow)
 
 ## Skills Gained This Week
 - Able to choose and build the right chart type for a given question (trend, comparison, distribution, relationship)
