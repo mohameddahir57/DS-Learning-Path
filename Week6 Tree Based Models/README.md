@@ -44,4 +44,4 @@ One honest result to remember: in this dataset Logistic Regression scored as wel
 - Understand ROC-AUC and why accuracy alone can fool you
 - Able to compare several models fairly and choose one with a clear reason
 
-**Next up: Week 7 - Model Optimization (cross-validation, hyperparameter tuning, regularization)**
+**Next up: Week7 Model Optimization (cross-validation, hyperparameter tuning, regularization)**
