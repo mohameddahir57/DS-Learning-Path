@@ -1,4 +1,4 @@
-# Week 6 - Tree-Based Models
+# Week6 Tree Based Models
 
 ## Overview
 Last week you built your first models (Linear and Logistic Regression). This week you learned a different family of models: **trees**. A decision tree asks simple yes/no questions to reach an answer, and a random forest combines many trees so they vote. You also learned the standard ways to measure a classification model properly, beyond a single accuracy number, and finished by comparing three models fairly on the same data.
