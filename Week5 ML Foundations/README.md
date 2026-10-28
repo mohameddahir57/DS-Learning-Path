@@ -40,4 +40,4 @@ Every exercise is fully solved with simple code and clear comments, using genera
 - Able to train and use a Logistic Regression model to predict a category
 - Able to read model scores and compare models fairly
 
-**Next up: Week 6 - Tree-Based Models (Decision Trees and Random Forests)**
+**Next up: Week6 Tree Based Models (Decision Trees and Random Forests)**
