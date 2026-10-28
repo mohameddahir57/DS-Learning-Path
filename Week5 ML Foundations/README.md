@@ -18,10 +18,10 @@ Despite the name, this model is used for classification - predicting a category 
 Reviewed when to use Linear vs Logistic Regression, learned how to fairly compare models (same data, same type of problem), and completed a mini challenge building both types of models on the same base dataset.
 
 ## Files in This Folder
-- `day-1-ml-foundations.pdf` / `day-1-ml-foundations.ipynb`
-- `day-2-linear-regression.pdf` / `day-2-linear-regression.ipynb`
-- `day-3-logistic-regression.pdf` / `day-3-logistic-regression.ipynb`
-- `day-4-comparing-models-mini-challenge.pdf` / `day-4-comparing-models-mini-challenge.ipynb`
+- `Day1 Ml Foundations.pdf` / `Day1 Ml Foundations.ipynb`
+- `Day2 Linear Regression.pdf` / `Day2 Linear Regression.ipynb`
+- `Day3 Logistic Regression.pdf` / `Day3 Logistic Regression.ipynb`
+- `Day4 Comparing Models Mini Challenge.pdf` / `Day4 Comparing Models Mini Challenge.ipynb`
 
 ## Note on This Week's Materials
 Every exercise is fully solved with simple code and clear comments, using generated sample data so everything runs immediately. A few PDFs include a simple diagram (train/test split, the regression line, the sigmoid curve, a model comparison chart) exactly where a picture makes the idea easier to understand - not added just for decoration.
